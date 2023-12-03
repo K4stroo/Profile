@@ -1,0 +1,57 @@
+body{
+    font-family: 'Poppins', sans-serif;  
+}
+h1{
+    color: #000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    margin-left: 5%;
+}
+
+.navbar{
+    background-color: #000;
+    width: 100%;
+    height: 90px;
+}
+
+.hrwidth{
+    width: 1308px;
+}
+
+.divheight{
+    height: 60px;
+    padding-top: 25px;
+
+}
+
+.iconPos{
+    width: 27px;
+    height: 27px;
+    flex-shrink: 0;
+    margin-left: 5%;
+}
+.userLabel{
+    color: #373737;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 5%;
+}
+.backButton{
+    color: #FFFFFF;
+    width: 193px;
+    height: 57px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border-radius: 5px;
+    background: #345FD5;
+    box-shadow: 2px 3px 4px 0px rgba(0, 0, 0, 0.253);
+    float: right;
+    margin-right: 6.5%;
+}
